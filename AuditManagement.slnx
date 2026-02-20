@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AuditManagement.API/AuditManagement.API.csproj" />
+    <Project Path="src/AuditManagement.Application/AuditManagement.Application.csproj" />
+    <Project Path="src/AuditManagement.Domain/AuditManagement.Domain.csproj" />
+    <Project Path="src/AuditManagement.Infrastructure/AuditManagement.Infrastructure.csproj" />
+    <Project Path="src/AuditManagement.Persistence/AuditManagement.Persistence.csproj" />
+  </Folder>
+</Solution>

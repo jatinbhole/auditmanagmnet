@@ -1,0 +1,16 @@
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/AuditManagement.Persistence.csproj.AssemblyReference.cache
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/AuditManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/AuditManagement.Persistence.AssemblyInfoInputs.cache
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/AuditManagement.Persistence.AssemblyInfo.cs
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/AuditManagement.Persistence.csproj.CoreCompileInputs.cache
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/AuditManagement.Persistence.sourcelink.json
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/bin/Debug/net10.0/AuditManagement.Persistence.deps.json
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/bin/Debug/net10.0/AuditManagement.Persistence.dll
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/bin/Debug/net10.0/AuditManagement.Persistence.pdb
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/bin/Debug/net10.0/AuditManagement.Domain.dll
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/bin/Debug/net10.0/AuditManagement.Domain.pdb
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/AuditMan.8FF9985D.Up2Date
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/AuditManagement.Persistence.dll
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/refint/AuditManagement.Persistence.dll
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/AuditManagement.Persistence.pdb
+/workspaces/auditmanagmnet/src/AuditManagement.Persistence/obj/Debug/net10.0/ref/AuditManagement.Persistence.dll

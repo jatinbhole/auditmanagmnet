@@ -1,0 +1,12 @@
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/bin/Debug/net10.0/AuditManagement.Domain.deps.json
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/bin/Debug/net10.0/AuditManagement.Domain.dll
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/bin/Debug/net10.0/AuditManagement.Domain.pdb
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/obj/Debug/net10.0/AuditManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/obj/Debug/net10.0/AuditManagement.Domain.AssemblyInfoInputs.cache
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/obj/Debug/net10.0/AuditManagement.Domain.AssemblyInfo.cs
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/obj/Debug/net10.0/AuditManagement.Domain.csproj.CoreCompileInputs.cache
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/obj/Debug/net10.0/AuditManagement.Domain.sourcelink.json
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/obj/Debug/net10.0/AuditManagement.Domain.dll
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/obj/Debug/net10.0/refint/AuditManagement.Domain.dll
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/obj/Debug/net10.0/AuditManagement.Domain.pdb
+/workspaces/auditmanagmnet/src/AuditManagement.Domain/obj/Debug/net10.0/ref/AuditManagement.Domain.dll
